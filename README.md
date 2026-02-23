@@ -1,2 +1,2 @@
-# DanHengServerResources
-A repository containing the resources for DanHengServer
+# 丹恒服务器数据库
+一个包含丹恒服务器资源的存储库
